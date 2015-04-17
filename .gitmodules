@@ -1,0 +1,6 @@
+[submodule "bitcore-stack"]
+	path = bitcore-stack
+	url = git@github.com:martindale/bitcore-stack.git
+[submodule "why-maki"]
+	path = why-maki
+	url = git@github.com:martindale/why-maki.git
