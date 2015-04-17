@@ -4,3 +4,6 @@
 [submodule "why-maki"]
 	path = why-maki
 	url = git@github.com:martindale/why-maki.git
+[submodule "beyond-bitcoin"]
+	path = beyond-bitcoin
+	url = git@github.com:martindale/beyond-bitcoin.git
