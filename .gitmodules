@@ -1,12 +1,12 @@
 [submodule "bitcore-stack"]
 	path = bitcore-stack
-	url = git@github.com:martindale/bitcore-stack.git
+	url = git://github.com:martindale/bitcore-stack.git
 [submodule "why-maki"]
 	path = why-maki
-	url = git@github.com:martindale/why-maki.git
+	url = git://github.com:martindale/why-maki.git
 [submodule "beyond-bitcoin"]
 	path = beyond-bitcoin
-	url = git@github.com:martindale/beyond-bitcoin.git
+	url = git://github.com:martindale/beyond-bitcoin.git
 [submodule "copay-wallet"]
 	path = copay-wallet
-	url = git@github.com:martindale/copay-wallet.git
+	url = git://github.com:martindale/copay-wallet.git
