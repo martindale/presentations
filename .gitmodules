@@ -7,3 +7,6 @@
 [submodule "beyond-bitcoin"]
 	path = beyond-bitcoin
 	url = git@github.com:martindale/beyond-bitcoin.git
+[submodule "copay-wallet"]
+	path = copay-wallet
+	url = git@github.com:martindale/copay-wallet.git
