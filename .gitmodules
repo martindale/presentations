@@ -12,4 +12,5 @@
 	url = https://github.com/martindale/copay-wallet.git
 [submodule "events/2016-11-01-triangle-bitcoin-meetup"]
 	path = events/2016-11-01-triangle-bitcoin-meetup
-	url = git@github.com:martindale/elements-project.git
+  url = git@github.com:martindale/elements-project.git
+  branch = triangle-bitcoin-meetup
