@@ -14,3 +14,6 @@
 	path = events/2016-11-01-triangle-bitcoin-meetup
   url = https://github.com/martindale/elements-project.git
   branch = triangle-bitcoin-meetup
+[submodule "elements-project"]
+	path = elements-project
+	url = https://github.com/martindale/elements-project
